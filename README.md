@@ -1,2 +1,2 @@
 # xq0840.github.io
-xq博客
+xqblog
